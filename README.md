@@ -30,10 +30,10 @@ Utilizei o Power BI para desenvolver um dashboard com os seguintes elementos:
 ### 🖼️ Dashboard:
 
 <div align="center">
-  <img src="imagens/grafico1.png" width="700px" alt="Faturamento mensal">
+  <img src="Imagens/tooltip Lucro.png" width="700px" alt="Faturamento mensal">
   <p><i>Gráfico de faturamento mensal</i></p>
 
-  <img src="imagens/grafico2.png" width="700px" alt="Lucro por setor">
+  <img src="Imagens/tooltipSetor.png" width="700px" alt="Lucro por setor">
   <p><i>Lucro por setor</i></p>
 </div>
 
